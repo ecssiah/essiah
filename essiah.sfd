@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: essio
+FontName: essiah
 FullName: Essiah
-FamilyName: essio
+FamilyName: essiah
 Weight: Book
 Copyright: Copyright (c) 2016, ecssiah
 Version: 001.000
@@ -15,14 +15,14 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-XUID: [1021 106 741798547 14171447]
+XUID: [1021 106 741798547 7661301]
 StyleMap: 0x0000
 FSType: 0
 OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1457670383
-ModificationTime: 1458678581
+ModificationTime: 1458699479
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -81,7 +81,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "Regular" "FontForge 2.0 : Essiah : 16-3-2016"
+LangName: 1033 "" "" "Regular"
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -90,6 +90,8 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WinInfo: 18 18 7
+BeginPrivate: 0
+EndPrivate
 BeginChars: 65539 64
 
 StartChar: .notdef
