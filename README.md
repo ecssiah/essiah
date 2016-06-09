@@ -5,7 +5,7 @@ This is the original repository for content related to the language, Essiah.
 
 The repo contains a few documents that explain the basics and give some examples, but I'll try and explain a little about the ideas behind the language here. The basic principle was to make a simplified, improved, and phonetic English.
 
-[[/media/alphabet.png]]
+[[Essiah/media/alphabet.png]]
 
 The alphabet does not use the exact characters from English, but it is heavily inspired by the English alphabet, and it was purposefully designed to be easy to learn for someone who already knows English. The alphabet is largely produced by rotating base characters to form groupings of characters.
 
