@@ -1,4 +1,4 @@
-The name of the language is transliterated as Essiah. There is a repository for information about the language that also contains a basic font: https://github.com/ecssiah/Essiah
+This is the original repository for content related to the language, Essiah. The name of the language is transliterated as Essiah.
 
 The repo contains a few documents that explain the basics and give some examples, but I'll try and explain a little about the ideas behind the language here. The basic principle was to make a simplified, improved, and phonetic English.
 
