@@ -9,13 +9,13 @@ The repo contains a few documents that explain the basics and give some examples
 
 The alphabet does not use the exact characters from English, but it is heavily inspired by the English alphabet, and it was purposefully designed to be easy to learn for someone who already knows English. The alphabet is largely produced by rotating base characters to form groupings of characters.
 
-http://imgur.com/xfqx7sf
+![Alphabet with letter groupings](/media/alphabet-with-letter-groupings.png?raw=true)
 
 Each highlighted group of letters is produced by rotating the first character in the sequence by either 120, 90, or 45 degrees. In this way, the alphabet can partially be generated rather than memorized entirely by brute force. In every case where the Essiah letter strongly resembled an English letter, I chose that letter to represent a corresponding sound in English. So, roughly speaking, if it looks like an English letter, then it pretty much sounds like that letter in Essiah. Therefore, the character that looks like the letter, o, is always pronounced as it is in "hot" or "vote". These are considered its "short" and "long" forms in Essiah.
 
 The long forms of the vowels are written by doubling the vowel in the word, or by using one of the many diphthongs available. This can be seen in the name of the language itself:
 
-http://imgur.com/tC4w7y2
+![Essiah](/media/essiah.png?raw=true)
 
 The first "backwards slash" character is the letter that corresponds to the English e, it sounds like the e from "bet". The second e is doubled, and therefore is read long, as in the word "feet". Using the font, you can access the special doubled characters by using the capitalized version of the single letter (Essiah has no capitalization, so nothing is lost). These special, condensed versions only exist for the a, e, and i characters, which all derive from a single line that can easily be doubled. To make a "long o" or a "long u", the letters are simply written twice, except for in the diphthongs.
 
@@ -27,6 +27,6 @@ Even further, not only are the numbers mapped on to the characters of the alphab
 
 Finally, I'll give one example sentence in Essiah:
 
-http://imgur.com/YpRi18J
+![Number example](/media/number-example.png)
 
 In this example, you can see the "inverted caret" (which currently has no name in Essiah). When a number is used within a sentence like this, the symbol is used to avoid confusion. You can also see an example of the special rule for verbs that begin or end with a short vowel. The verb "to stand", which is the first word of the example sentence, begins with a vowel, so instead of adding the usual 'o' character to the beginning to indicate past tense, the 'a' vowel is doubled and made long.
