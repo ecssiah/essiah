@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "essiah";
+	src: url(../font/essiah.ttf);
+}
+
+.essiah {
+	font-family: "essiah";
+	font-weight: normal;
+}
