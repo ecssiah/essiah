@@ -1,7 +1,7 @@
 Essiah
 =
 
-This is the original repository for content related to the language, Essiah. The language has one foundational principle: To maintain phonetic spelling. If the pronunciation changes through use, then the spelling should change along with it.
+This is the original repository for the language, Essiah. The language has one foundational principle: To maintain phonetic spelling. If the pronunciation changes through use, then the spelling should change along with it.
 
 The repo contains a few documents that explain the basics and give some examples, but I'll try and explain a little about the ideas behind the language here. The basic principle was to make a simplified, improved, and phonetic English.
 
