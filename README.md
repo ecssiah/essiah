@@ -1,9 +1,8 @@
-Essiah
-=
+# Essiah
 
-This is the original repository for the language, Essiah. The language has one foundational principle: To maintain phonetic spelling. If the pronunciation changes through use, then the spelling should change along with it.
+This is the original repository for the open language, Essiah.
 
-The repo contains a few documents that explain the basics and give some examples. The basic principle was to make a simplified, improved, and phonetic English.
+The repo contains a few documents that explain the basics and give some examples. The basic principle was to make a simplified and phonetic English.
 
 ![Alphabet](/media/alphabet.png?raw=true)
 
@@ -11,7 +10,9 @@ The alphabet does not use the exact characters from English, but it is heavily i
 
 ![Alphabet with letter groupings](/media/alphabet-with-letter-groupings.png?raw=true)
 
-Each highlighted group of letters is produced by rotating the first character in the sequence. In this way, the alphabet can partially be generated rather than memorized entirely by brute force. In every case where the Essiah letter strongly resembled an English letter, I chose that letter to represent a corresponding sound in English. So, roughly speaking, if it looks like an English letter, then it pretty much sounds like that letter in Essiah. Therefore, the character that looks like the letter, o, is always pronounced as it is in "hot" or "vote". These are considered its "short" and "long" forms in Essiah.
+Each highlighted group of letters is produced by rotating the first character in the sequence. In this way, the alphabet can partially be generated rather than memorized. 
+
+In every case where the Essiah letter strongly resembled an English letter, that letter was chosen to represent a corresponding sound in English. So, roughly speaking, if it looks like an English letter, then it sounds like that letter in Essiah. Therefore, the character that looks like the letter, o, is always pronounced as it is in "hot" when it is short and "vote" when it is long.
 
 The long forms of the vowels are written by doubling the vowel in the word, or by using one of the many diphthongs available. This can be seen in the name of the language itself:
 
