@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1701637513
-ModificationTime: 1703805001
+ModificationTime: 1703899855
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,7 +50,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 28 14 5
+WinInfo: 70 14 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1080,17 +1080,17 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-607 639 m 29
- 704 640 l 5
+703 97 m 29
  704 0 l 5
- 608 0 l 5
- 608 492 l 5
- 159 0 l 29
- 64 0 l 21
- 64 640 l 5
- 160 640 l 5
- 160 148 l 5
- 607 639 l 29
+ 64 0 l 5
+ 64 96 l 5
+ 556 96 l 5
+ 64 545 l 29
+ 64 640 l 21
+ 704 640 l 5
+ 704 544 l 5
+ 212 544 l 5
+ 703 97 l 29
 EndSplineSet
 EndChar
 
@@ -1280,21 +1280,28 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-384 0 m 0
- 207 0 64 143 64 320 c 0
- 64 497 207 640 384 640 c 0
- 561 640 704 497 704 320 c 0
- 704 143 561 0 384 0 c 0
-603 272 m 1
- 165 272 l 1
- 187 171 276 96 384 96 c 0
- 492 96 581 171 603 272 c 1
-603 368 m 1
- 581 469 492 544 384 544 c 0
- 276 544 187 469 165 368 c 1
- 603 368 l 1
+384 0 m 4
+ 207 0 64 143 64 320 c 4
+ 64 497 207 640 384 640 c 4
+ 561 640 704 497 704 320 c 4
+ 704 143 561 0 384 0 c 4
+336 272 m 5
+ 165 272 l 5
+ 184 186 250 119 336 101 c 5
+ 336 272 l 5
+336 539 m 5
+ 250 521 184 454 165 368 c 5
+ 336 368 l 5
+ 336 539 l 5
+432 272 m 5
+ 432 101 l 5
+ 518 119 584 186 603 272 c 5
+ 432 272 l 5
+432 539 m 5
+ 432 368 l 5
+ 603 368 l 5
+ 584 454 518 521 432 539 c 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: Z
@@ -1865,17 +1872,17 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-703 97 m 29
- 704 0 l 5
- 64 0 l 5
- 64 96 l 5
- 556 96 l 5
- 64 545 l 29
- 64 640 l 21
+607 639 m 29
  704 640 l 5
- 704 544 l 5
- 212 544 l 5
- 703 97 l 29
+ 704 0 l 5
+ 608 0 l 5
+ 608 492 l 5
+ 159 0 l 29
+ 64 0 l 21
+ 64 640 l 5
+ 160 640 l 5
+ 160 148 l 5
+ 607 639 l 29
 EndSplineSet
 EndChar
 
@@ -1886,29 +1893,20 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-384 0 m 4
- 207 0 64 143 64 320 c 4
- 64 497 207 640 384 640 c 4
- 561 640 704 497 704 320 c 4
- 704 143 561 0 384 0 c 4
-336 272 m 5
- 165 272 l 5
- 184 186 250 119 336 101 c 5
- 336 272 l 5
-336 539 m 5
- 250 521 184 454 165 368 c 5
- 336 368 l 5
- 336 539 l 5
-432 272 m 5
- 432 101 l 5
- 518 119 584 186 603 272 c 5
- 432 272 l 5
-432 539 m 5
- 432 368 l 5
- 603 368 l 5
- 584 454 518 521 432 539 c 5
+384 0 m 0
+ 207 0 64 143 64 320 c 0
+ 64 497 207 640 384 640 c 0
+ 561 640 704 497 704 320 c 0
+ 704 143 561 0 384 0 c 0
+603 272 m 1
+ 165 272 l 1
+ 187 171 276 96 384 96 c 0
+ 492 96 581 171 603 272 c 1
+603 368 m 1
+ 581 469 492 544 384 544 c 0
+ 276 544 187 469 165 368 c 1
+ 603 368 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: z
@@ -2027,19 +2025,15 @@ EndChar
 StartChar: uni0086
 Encoding: 134 134 134
 Width: 768
-Flags: W
+Flags: HW
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uni0087
 Encoding: 135 135 135
 Width: 768
-Flags: W
+Flags: HW
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uni0088
