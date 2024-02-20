@@ -1,3 +1,3 @@
 # Essiah
 
-A new language.
+A new old language.
