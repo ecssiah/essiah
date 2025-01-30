@@ -1,3 +1,3 @@
-# Essiah
+# Essia
 
 A language.
