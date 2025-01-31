@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1732266389
-ModificationTime: 1738249280
+ModificationTime: 1738302987
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -137,13 +137,13 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-768 384 m 5
- 768 256 l 5
- 576 0 l 5
- 768 -256 l 5
- 768 -384 l 5
- 448 0 l 5
- 768 384 l 5
+640 256 m 5
+ 640 128 l 5
+ 476 0 l 5
+ 640 -128 l 5
+ 640 -256 l 5
+ 320 0 l 5
+ 640 256 l 5
 EndSplineSet
 Validated: 1
 EndChar
@@ -156,13 +156,13 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-256 384 m 5
- 576 0 l 5
- 256 -384 l 5
- 256 -256 l 5
- 448 0 l 5
- 256 256 l 5
- 256 384 l 5
+384 256 m 5
+ 704 0 l 5
+ 384 -256 l 5
+ 384 -128 l 5
+ 548 0 l 5
+ 384 128 l 5
+ 384 256 l 5
 EndSplineSet
 Validated: 1
 EndChar
@@ -368,23 +368,26 @@ EndChar
 StartChar: i
 Encoding: 105 105 11
 Width: 1024
+VWidth: 1689
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-576 256 m 5
- 576 -256 l 5
- 896 -256 l 5
- 896 -384 l 5
+128 256 m 5
+ 128 384 l 5
+ 512 384 l 6
+ 618 384 709 347 784 272 c 4
+ 859 197 896 106 896 0 c 4
+ 896 -106 859 -197 784 -272 c 4
+ 709 -347 617 -384 512 -384 c 6
  128 -384 l 5
  128 -256 l 5
- 448 -256 l 5
- 448 256 l 5
+ 512 -256 l 6
+ 583 -256 643 -231 693 -181 c 4
+ 743 -131 768 -71 768 0 c 4
+ 768 71 743 131 693 181 c 4
+ 643 231 583 256 512 256 c 6
  128 256 l 5
- 128 384 l 5
- 896 384 l 5
- 896 256 l 5
- 576 256 l 5
 EndSplineSet
 Validated: 1
 EndChar
@@ -529,6 +532,7 @@ SplineSet
  725 64 768 108 768 160 c 0
  768 213 725 256 672 256 c 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: s
@@ -712,6 +716,7 @@ SplineSet
  896 384 l 1
  896 -384 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: S
@@ -876,13 +881,13 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-576 -384 m 1
- 448 -384 l 1
- 448 384 l 1
+576 -384 m 5
+ 448 -384 l 5
+ 448 384 l 5
  896 384 l 5
  896 256 l 5
- 576 256 l 1
- 576 -384 l 1
+ 576 256 l 5
+ 576 -384 l 5
 EndSplineSet
 Validated: 1
 EndChar
@@ -894,17 +899,17 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-576 -384 m 1
- 448 -384 l 1
- 448 -64 l 1
+576 -384 m 5
+ 448 -384 l 5
+ 448 -64 l 5
  128 -64 l 5
  128 64 l 5
- 448 64 l 1
- 448 384 l 1
- 896 384 l 1
- 896 256 l 1
- 576 256 l 1
- 576 -384 l 1
+ 448 64 l 5
+ 448 384 l 5
+ 896 384 l 5
+ 896 256 l 5
+ 576 256 l 5
+ 576 -384 l 5
 EndSplineSet
 Validated: 1
 EndChar
@@ -916,19 +921,19 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-576 256 m 1
- 576 -256 l 1
- 896 -256 l 1
- 896 -384 l 1
+576 -384 m 1
  448 -384 l 1
  448 -64 l 1
  128 -64 l 1
- 128 64 l 1
+ 128 384 l 1
+ 256 384 l 1
+ 256 64 l 1
  448 64 l 1
  448 384 l 1
  896 384 l 1
  896 256 l 1
  576 256 l 1
+ 576 -384 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -940,21 +945,21 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-576 256 m 1
- 576 -256 l 1
- 896 -256 l 1
- 896 -384 l 1
- 448 -384 l 1
+448 -256 m 1
  448 -64 l 1
- 128 -64 l 5
- 128 64 l 5
+ 128 -64 l 1
+ 128 384 l 1
+ 256 384 l 1
+ 256 64 l 1
  448 64 l 1
- 448 256 l 1
- 128 256 l 5
- 128 384 l 5
+ 448 384 l 1
  896 384 l 1
  896 256 l 1
  576 256 l 1
+ 576 -384 l 1
+ 128 -384 l 1
+ 128 -256 l 1
+ 448 -256 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -966,25 +971,25 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-576 256 m 1
+448 -64 m 1
+ 128 -64 l 1
+ 128 384 l 1
+ 256 384 l 1
+ 256 64 l 1
+ 448 64 l 1
+ 448 384 l 1
+ 896 384 l 1
+ 896 256 l 1
+ 576 256 l 1
  576 64 l 1
  896 64 l 1
  896 -64 l 1
  576 -64 l 1
- 576 -256 l 1
- 896 -256 l 1
- 896 -384 l 1
- 448 -384 l 1
+ 576 -384 l 1
+ 128 -384 l 1
+ 128 -256 l 1
+ 448 -256 l 1
  448 -64 l 1
- 128 -64 l 5
- 128 64 l 5
- 448 64 l 1
- 448 256 l 1
- 128 256 l 5
- 128 384 l 5
- 896 384 l 1
- 896 256 l 1
- 576 256 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -996,27 +1001,27 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-128 384 m 1
+448 -64 m 1
+ 128 -64 l 1
+ 128 384 l 1
+ 256 384 l 1
+ 256 64 l 1
+ 448 64 l 1
+ 448 384 l 1
  896 384 l 1
  896 256 l 1
  576 256 l 1
  576 64 l 1
  896 64 l 1
- 896 -64 l 1
- 576 -64 l 1
- 576 -256 l 1
- 896 -256 l 1
  896 -384 l 1
+ 768 -384 l 1
+ 768 -64 l 1
+ 576 -64 l 1
+ 576 -384 l 1
  128 -384 l 1
  128 -256 l 1
  448 -256 l 1
  448 -64 l 1
- 128 -64 l 1
- 128 64 l 5
- 448 64 l 1
- 448 256 l 1
- 128 256 l 1
- 128 384 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -1028,28 +1033,28 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-576 256 m 1
- 576 64 l 1
- 768 64 l 1
- 768 256 l 1
- 576 256 l 1
-896 384 m 1
- 896 -64 l 1
- 576 -64 l 1
- 576 -256 l 1
- 896 -256 l 1
+448 -64 m 1
+ 128 -64 l 1
+ 128 384 l 1
+ 256 384 l 1
+ 256 64 l 1
+ 448 64 l 1
+ 448 384 l 1
+ 896 384 l 1
  896 -384 l 1
+ 768 -384 l 1
+ 768 -64 l 1
+ 576 -64 l 1
+ 576 -384 l 1
  128 -384 l 1
  128 -256 l 1
  448 -256 l 1
  448 -64 l 1
- 128 -64 l 1
- 128 64 l 1
- 448 64 l 1
- 448 256 l 1
- 128 256 l 1
- 128 384 l 1
- 896 384 l 1
+768 256 m 1
+ 576 256 l 1
+ 576 64 l 1
+ 768 64 l 1
+ 768 256 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -1061,29 +1066,29 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-448 -256 m 1
- 448 -64 l 1
- 256 -64 l 1
- 256 -256 l 1
- 448 -256 l 1
-576 256 m 1
+768 256 m 1
+ 576 256 l 1
  576 64 l 1
  768 64 l 1
  768 256 l 1
- 576 256 l 1
-896 384 m 1
- 896 -64 l 1
- 576 -64 l 1
- 576 -256 l 1
- 896 -256 l 1
- 896 -384 l 1
- 128 -384 l 1
- 128 64 l 1
+256 -64 m 1
+ 256 -256 l 1
+ 448 -256 l 1
+ 448 -64 l 1
+ 256 -64 l 1
+256 64 m 1
  448 64 l 1
- 448 256 l 1
- 128 256 l 1
- 128 384 l 1
+ 448 384 l 1
  896 384 l 1
+ 896 -384 l 1
+ 768 -384 l 1
+ 768 -64 l 1
+ 576 -64 l 1
+ 576 -384 l 1
+ 128 -384 l 1
+ 128 384 l 1
+ 256 384 l 1
+ 256 64 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -1298,6 +1303,7 @@ SplineSet
  432 0 l 1
  128 384 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: parenright
@@ -1308,13 +1314,13 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-256 384 m 5
- 576 0 l 5
- 256 -384 l 5
- 256 -256 l 5
+128 384 m 5
  448 0 l 5
- 256 256 l 5
- 256 384 l 5
+ 128 -384 l 5
+ 128 -256 l 5
+ 320 0 l 5
+ 128 256 l 5
+ 128 384 l 5
 EndSplineSet
 Validated: 1
 EndChar
@@ -1322,19 +1328,25 @@ EndChar
 StartChar: bracketleft
 Encoding: 91 91 51
 Width: 1024
-Flags: H
+VWidth: 1689
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-768 384 m 1
- 768 320 l 1
- 576 320 l 5
- 576 -320 l 5
- 768 -320 l 1
- 768 -384 l 1
- 448 -384 l 1
- 448 384 l 1
- 768 384 l 1
+640 303 m 1
+ 640 175 l 1
+ 512 0 l 1
+ 640 -175 l 5
+ 640 -303 l 5
+ 384 0 l 1
+ 640 303 l 1
+896 384 m 1
+ 896 256 l 1
+ 704 0 l 1
+ 896 -256 l 1
+ 896 -384 l 1
+ 576 0 l 1
+ 896 384 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -1342,19 +1354,25 @@ EndChar
 StartChar: bracketright
 Encoding: 93 93 52
 Width: 1024
+VWidth: 1689
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-256 384 m 1
- 576 384 l 1
- 576 -384 l 1
- 256 -384 l 1
- 256 -320 l 1
- 448 -320 l 1
- 448 320 l 1
- 256 320 l 1
- 256 384 l 1
+384 303 m 1
+ 640 0 l 1
+ 384 -303 l 1
+ 384 -175 l 1
+ 512 0 l 1
+ 384 175 l 1
+ 384 303 l 1
+128 384 m 1
+ 448 0 l 1
+ 128 -384 l 1
+ 128 -256 l 1
+ 320 0 l 1
+ 128 256 l 1
+ 128 384 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -1491,20 +1509,27 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-576 384 m 5
- 576 256 l 5
- 384 0 l 5
- 576 -256 l 5
- 576 -384 l 5
- 256 0 l 5
- 576 384 l 5
-768 384 m 5
- 768 256 l 5
- 576 0 l 5
- 768 -256 l 5
- 768 -384 l 5
- 448 0 l 5
- 768 384 l 5
+640 303 m 1
+ 640 175 l 1
+ 512 0 l 1
+ 640 -175 l 1
+ 640 -303 l 1
+ 384 0 l 1
+ 640 303 l 1
+896 384 m 1
+ 896 256 l 1
+ 704 0 l 1
+ 896 -256 l 1
+ 896 -384 l 1
+ 576 0 l 1
+ 896 384 l 1
+329 0 m 1
+ 382 -79 l 1
+ 382 -207 l 1
+ 201 0 l 1
+ 382 207 l 1
+ 382 79 l 1
+ 329 0 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -1517,20 +1542,27 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-448 384 m 5
- 768 0 l 5
- 448 -384 l 5
- 448 -256 l 5
- 640 0 l 5
- 448 256 l 5
- 448 384 l 5
-256 384 m 5
- 576 0 l 5
- 256 -384 l 5
- 256 -256 l 5
- 448 0 l 5
- 256 256 l 5
- 256 384 l 5
+512 303 m 1
+ 768 0 l 1
+ 512 -303 l 1
+ 512 -175 l 1
+ 640 0 l 1
+ 512 175 l 1
+ 512 303 l 1
+256 384 m 1
+ 576 0 l 1
+ 256 -384 l 1
+ 256 -256 l 1
+ 448 0 l 1
+ 256 256 l 1
+ 256 384 l 1
+823 0 m 1
+ 770 79 l 1
+ 770 207 l 1
+ 951 0 l 1
+ 770 -207 l 1
+ 770 -79 l 1
+ 823 0 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -1594,10 +1626,24 @@ StartChar: quotedbl
 Encoding: 34 34 63
 Width: 1024
 VWidth: 1689
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
+630 256 m 1
+ 726 256 l 1
+ 828 0 l 1
+ 726 -256 l 1
+ 630 -256 l 1
+ 726 0 l 1
+ 630 256 l 1
+394 256 m 1
+ 298 0 l 1
+ 394 -256 l 1
+ 298 -256 l 1
+ 196 0 l 1
+ 298 256 l 1
+ 394 256 l 1
 512 171 m 1
  448 0 l 1
  512 -171 l 1
@@ -1611,7 +1657,6 @@ SplineSet
  346 0 l 1
  448 256 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: ordmasculine
@@ -1621,30 +1666,30 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-768 -64 m 1
- 576 -64 l 1
- 576 -256 l 1
- 768 -256 l 1
- 768 -64 l 1
-256 256 m 1
- 256 64 l 1
+256 64 m 1
  448 64 l 1
- 448 256 l 1
- 256 256 l 1
-256 -256 m 1
- 448 -256 l 1
- 448 -64 l 1
- 256 -64 l 1
- 256 -256 l 1
-128 384 m 1
+ 448 384 l 1
  896 384 l 1
- 896 256 l 1
- 576 256 l 1
- 576 64 l 1
- 896 64 l 1
  896 -384 l 1
  128 -384 l 1
  128 384 l 1
+ 256 384 l 1
+ 256 64 l 1
+256 -64 m 1
+ 256 -256 l 1
+ 448 -256 l 1
+ 448 -64 l 1
+ 256 -64 l 1
+768 256 m 1
+ 576 256 l 1
+ 576 64 l 1
+ 768 64 l 1
+ 768 256 l 1
+768 -256 m 1
+ 768 -64 l 1
+ 576 -64 l 1
+ 576 -256 l 1
+ 768 -256 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -1657,13 +1702,13 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-768 384 m 5
- 768 256 l 5
+896 384 m 5
+ 896 256 l 5
+ 704 0 l 5
+ 896 -256 l 5
+ 896 -384 l 5
  576 0 l 5
- 768 -256 l 5
- 768 -384 l 5
- 448 0 l 5
- 768 384 l 5
+ 896 384 l 5
 EndSplineSet
 Validated: 1
 EndChar
